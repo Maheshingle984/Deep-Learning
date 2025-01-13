@@ -1,1 +1,3 @@
 # Deep-Learning
+Convolutional neural networks (CNNs)
+State-of-the-art image classification is performed with convolutional neural networks (CNNs) that use convolution layers to extract features from images and pooling layers to downsize images so features can be detected at various resolutions. Let's use Keras to build a CNN and train it to differentiate between photos containing Arctic foxes, polar bears, and walruses. CNNs perform best when trained with thousands (or tens of thousands) of images per class. In this example, we'll use 300 images for training (100 per class) and 120 for testing.
